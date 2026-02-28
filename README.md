@@ -30,3 +30,8 @@
 - [ ] 2026 BASED ON NETWORK 
 - [ ] 2027 INVESTMENT 
 - [ ] 2028 EXPANSION 
+
+<details>
+<summary>THANKS</summary>
+THANK SO MUCH FOR UR VIST 
+</details>
