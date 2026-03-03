@@ -20,6 +20,16 @@
 > [!WARNING]
 > I'M NOT FULL STACK DEVELOPER BUT I'M BASED ON SOLVING DEVELOPERS FULL PROJECT RELATED TO SOCIETY 
 
+<p align="center">
+  <!-- SOLUSI 2: Statistik dengan layanan berbeda -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=xibsx&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xibsx&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+
+
 > [!CAUTION]
 > NO COPYING 
 
